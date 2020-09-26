@@ -1,3 +1,6 @@
 # hello-world
 I am learning Github
-This is the edidted version of readme
+
+This is the edited version of README.md
+
+Kuzulara sevgiler!
